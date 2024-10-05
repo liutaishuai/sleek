@@ -3,8 +3,8 @@ window.config={
     theme:true,
     
     // 后端网址配置
-    hosturl:"https://xxxxxxx.com/",
-    title:"xx-加速器",
+    hosturl:"https://vpn.862368.xyz/",
+    title:"test加速器",
     title1:"快速高效与世界连接",
     title2:"快速,可靠,信赖",
 
