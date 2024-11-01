@@ -3,7 +3,7 @@ window.config={
     theme:true,
     
     // 后端网址配置
-    hosturl:"http://test2.d1w.top/",
+    hosturl:"http://test2.d1w.top",
     title:"test加速器",
     title1:"快速高效与世界连接",
     title2:"快速,可靠,信赖",
